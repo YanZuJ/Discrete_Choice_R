@@ -2,8 +2,6 @@
 library(nnet)
 library(dplyr)
 library(tidyr)
-library(xgboost)
-library(caret)
 #change setwd accoridngly
 #setwd("C:\\Users\\Joe\\OneDrive - Singapore University of Technology and Design\\Office Lens\\T5 The Analytics Edge\\Competition")
 # Load the data
