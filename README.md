@@ -1,7 +1,7 @@
 # Discrete_Choice_R
 40.220 The Analytics Edge (SUTD) 2024 
-In this competition, you will be predicting the choice among bundles of safety features in cars. This data was analyzed in Weeks 4 and 5 of the classes.
-We've used a combination of Random Forest, Multinomial and Support Vector Machine 
+In this competition, we were tasked to predict the choice among bundles of safety features in cars. This data was analyzed in Weeks 4 and 5 of the classes.
+We've used a combination of Random Forest, Multinomial and Support Vector Machine models.
 
 ## File Info
 
@@ -21,10 +21,10 @@ We've used a combination of Random Forest, Multinomial and Support Vector Machin
 ## Installation
 
 Please ensure you have at least R 4.3.3 version installed and RStudio.
-Both latest R and RStudio can be installe here: https://posit.co/download/rstudio-desktop/
+Both latest R and RStudio can be installed here: https://posit.co/download/rstudio-desktop/
 
-1. Clone this repository through git clone onto your computer
-2. Run Dependencies.R first to install all the necessary packages.
+1. Clone this repository through git clone onto your computer via your command prompt.
+2. Run **Dependencies.R** first to install all the necessary packages.
 3. For each R code, please remember to set your working directory to the this repository through `setwd`
 For example,
 ```bash
