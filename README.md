@@ -20,7 +20,8 @@ We've used a combination of Random Forest, Multinomial and Support Vector Machin
 
 ## Installation
 
-Please ensure you have at least R 4.3.3 version installed.
+Please ensure you have at least R 4.3.3 version installed and RStudio.
+Both latest R and RStudio can be installe here: https://posit.co/download/rstudio-desktop/
 
 1. Clone this repository through git clone onto your computer
 2. Run Dependencies.R first to install all the necessary packages.
