@@ -32,3 +32,11 @@ setwd("C:\\Users\\File\\Path\\To\\Code") #Note the double \\
 ```
 5. Run the code in order from from top to bottom based on the .R column in the table shown above.
 6. The .csv results are already in the file. If you would like to verify the best solution, run Model4.R only
+
+## Credits
+Team 11 (2024)
+- Paige Trinity Tan (1006972)
+- Li Xing (1007031)
+- Tan Yan Zu, Joe (1006864)
+- Destor Rose Evangeline Anne Dagman (1006988)
+
